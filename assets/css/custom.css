@@ -1,0 +1,48 @@
+#PhilBio {
+    display: none;
+}
+
+#WillBio {
+    display: none;
+}
+
+#DavidBio {
+    display: none;
+}
+
+.section-bottom {
+	padding-bottom: 120px;
+}
+
+.biggish {
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.paddingTop40 {
+	padding-top: 40px;
+}
+
+.marginTop24 {
+	margin-top: 24px;
+}
+
+.lozenge {
+	border-radius: 50px 10px 50px 10px;
+}
+
+.green {
+	color: #97c21d;
+}
+
+#sponsors {
+	padding-bottom: 20px;
+}
+
+.sticky-wrapper {
+	background-color: #97c21d;
+}
+
+.footerLogo {
+	width: 200px;
+}
